@@ -22,10 +22,6 @@ contract Assignment5 {
         isActive=true;
     }
 
-    // Function to increment the counter
-    // This function should:
-    // - Be external
-    // - Use a for loop to increment `counter` by 1 for 5 iterations
     function incrementCounter() external {
         // Fill in the logic
         for(int i = 0 ; i<5;i++){
